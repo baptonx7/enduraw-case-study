@@ -109,11 +109,9 @@ For this calculation, I used the computational engine from
 [bestbikesplit.com](http://bestbikesplit.com). I modeled
 Amelia like so :
 
-Athlete height : 170 cm
-
-Athlete weight : 58 kg
-
-Experience : Pro/Elite
+| Athlete height  | 170 cm    |
+| Athlete weight  | 58 kg     |
+| Experience      | Pro/Elite |
 
 *Based on PTO athlete information.*
 
