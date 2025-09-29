@@ -33,7 +33,7 @@ Watkinson.
 **Strength and weaknesses**
 
 Taking data from
-[[endurance-data.com]{.underline}](http://endurance-data.com), we can
+[endurance-data.com](http://endurance-data.com), we can
 first compare Amelia's splits to her opponents. This will provide
 information about her strengths and weaknesses.
 
@@ -59,7 +59,7 @@ Sport by sport analysis :
 
 -   **Bike** : She makes the 7th bike split, so she's a strong rider.
     Looking at recent
-    [[interviews]{.underline}](https://www.triathlete.com/culture/people/amelia-watkinson-rising-triathlon-star/?utm_source=chatgpt.com%3Futm_source%3Dchatgpt.com)
+    [interviews](https://www.triathlete.com/culture/people/amelia-watkinson-rising-triathlon-star/?utm_source=chatgpt.com%3Futm_source%3Dchatgpt.com)
     (Lacke, triathlete.com, 2025), Amelia appreciate scenic courses,
     *"there is so much more beauty and experiences in the valleys and
     on the mountain tops, than forever stuck on the plains"*, so the
@@ -105,7 +105,7 @@ swim), this puts her swimming threshold pace at **1:16 min per 100m**
 **BIKE**
 
 For this calculation, I used the computational engine from
-[[bestbikesplit.com]{.underline}](http://bestbikesplit.com). I modeled
+[bestbikesplit.com](http://bestbikesplit.com). I modeled
 Amelia like so :
 
 Athlete height : 170 cm
@@ -173,7 +173,7 @@ I kept simulation #4, giving me a this race overview
 ![](media/image2.png)
 
 The complete simulation and the parameters are
-[[public]{.underline}](https://www.bestbikesplit.com/public/330374) and
+[public](https://www.bestbikesplit.com/public/330374) and
 can be accessed for more details.
 
 Based on the simulation, **I estimate her IM 70.3 normalized power at
@@ -352,7 +352,7 @@ pace from Lahti. She has likely improved in the water since 2023, but
 since the swimming is in the sea, waves and swell will make it a bit
 harder.
 
-[Here](https://docs.google.com/spreadsheets/d/1Zdydq8krNZ-YE1xYeLJSHEeJKExHrRgXpSDr3W5NNX8/edit?gid=1501865030#gid=1501865030) are the splits for each buoy of the course.
+**[Here](https://docs.google.com/spreadsheets/d/1Zdydq8krNZ-YE1xYeLJSHEeJKExHrRgXpSDr3W5NNX8/edit?gid=1501865030#gid=1501865030) are the splits for each buoy of the course.**
 
 
 However, Amelia is racing for the best results possible, the strategy
@@ -384,7 +384,7 @@ It also provides a climb cheatsheet to help dealing with the hills.
 
 Based on the gpx file and the IM 70.3 race pace of Amelia we can set the
 objective of running the same GAP as Lahti. **This gives the
-[[following]{.underline}](https://docs.google.com/spreadsheets/d/1Zdydq8krNZ-YE1xYeLJSHEeJKExHrRgXpSDr3W5NNX8/edit?gid=1382714756#gid=1382714756)
+[following](https://docs.google.com/spreadsheets/d/1Zdydq8krNZ-YE1xYeLJSHEeJKExHrRgXpSDr3W5NNX8/edit?gid=1382714756#gid=1382714756)
 pacing plan, leading to a 01:19:24 half-marathon.**
 
 From all this data we can construct a race briefing for Amelia, tuning
