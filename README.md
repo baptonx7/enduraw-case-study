@@ -37,7 +37,7 @@ Taking data from
 first compare Amelia's splits to her opponents. This will provide
 information about her strengths and weaknesses.
 
-![](media/image1.png){width="6.5in" height="3.736111111111111in"}
+![](media/image1.png)
 
 Amelia is in red at the center, then we have
 
@@ -180,8 +180,7 @@ method
 
 I kept simulation #4, giving me a this race overview
 
-![](media/image5.png){width="2.8848687664041996in"
-height="4.567708880139983in"}
+![](media/image2.png)
 
 The complete simulation and the parameters are
 [[public]{.underline}](https://www.bestbikesplit.com/public/330374) and
@@ -299,15 +298,14 @@ Running the bestbikesplit simulation on the Marbella course gives the
 following results. I kept the same parameters as the Lahti course, and
 used the estimated IM 70.3 power.
 
-![](media/image6.png){width="3.13626312335958in"
-height="4.838542213473316in"}
+![](media/image3.png)
 
 Amelia will likely have an average speed of around 35.5 km/h but with
 this mountainous course, she will have to change gears a lot. Her
 maximum speed is estimated to be around 70-75km/h, while her slowest
 speed will be about 9km/h.
 
-![](media/image3.png){width="6.5in" height="2.375in"}
+![](media/image4.png)
 
 If we plot the repartition of time spent at different speed values, we
 can see that she will spend quite some time (15% of total bike time)
@@ -323,8 +321,7 @@ biggest gear at 70 km/h and 110 rpm. For the descents, maintaining a
 good trajectory and aero position will help much more than pushing hard
 on the pedals.
 
-![Chart](media/image4.png){width="5.551033464566929in"
-height="3.4427088801399823in"}
+![Chart](media/image5.png)
 
 Based on her Instagram photos, Amelia rides a SRAM RED AXS groupset,
 which gives her the opportunity to use a 10-36T or a 10-33T cassette
@@ -332,14 +329,11 @@ with a 37-50T crankset. I would recommend the 10-36T as it provides a
 32T that will help keep the chain centered, compared to the 10-33T that
 only provides a 28T as second gear.
 
-![](media/image8.png){width="3.2864588801399823in"
-height="5.016173447069116in"}
-
+![](media/image6.png)
 In my opinion a single chainring does not provide the polyvalence needed
 for this course. Here the table for a 46T single chainring from SRAM.
 
-![](media/image7.png){width="4.02834864391951in"
-height="3.9573359580052494in"}
+![](media/image7.png)
 
 **Overall, I suggest using the SRAM RED AXS etap 37-50T double chainring
 with a 10-36T cassette.**
@@ -414,7 +408,7 @@ for homogeneous segments of the bike course.**
 
 It also provides a climb cheatsheet to help dealing with the hills.
 
-![](media/image2.png){width="6.5in" height="3.8194444444444446in"}
+![](media/image8.png)
 
 **Run**
 
