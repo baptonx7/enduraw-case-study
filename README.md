@@ -54,8 +54,9 @@ Sport by sport analysis :
 -   **Swim** : Amelia gets out of the water in 29th position and we can
     see that her opponents are faster except for Reischmann. If we
     look at her athlete history, swimming was less of a foundation
-    early on compared to running and cycling. **Overall the swim is a
-    weakness.**
+    early on compared to running and cycling. 
+
+**Overall the swim is her weakest sport.**
 
 -   **Bike** : She makes the 7th bike split, so she's a strong rider.
     Looking at recent
@@ -91,9 +92,9 @@ improvements still.
 ### **Physiological profile**
 
 Taking the course in Lahti we can infer the following physiological for
-Amelia
+Amelia.
 
-**SWIM**
+#### **SWIM**
 
 Assuming there is no current in Lake Vesijarvi (it's famous for its calm
 waters), the 70.3 swim pace of Amelia is **1:25 min per 100m**.
@@ -102,7 +103,7 @@ We can extrapolate this value to get her swimming threshold pace.
 Assuming an intensity index of 0.90 (usual IF for pro female triathlete
 swim), this puts her swimming threshold pace at **1:16 min per 100m**
 
-**BIKE**
+#### **BIKE**
 
 For this calculation, I used the computational engine from
 [bestbikesplit.com](http://bestbikesplit.com). I modeled
@@ -179,7 +180,7 @@ can be accessed for more details.
 Based on the simulation, **I estimate her IM 70.3 normalized power at
 267 W** **and her FTP at 307 W (calculated from the IF).**
 
-**RUN**
+#### **RUN**
 
 The Lahti course has around 210m of elevation, with a smooth transition
 between gradients. This context suits well for computing a grade
