@@ -142,19 +142,13 @@ I used Basic Riding Style.
 
 This gave me these values for her estimated CdA on the bike :
 
-  -----------------------------------------------------------------------
-  Yaw Angle                           CdA
-  ----------------------------------- -----------------------------------
-  0°                                  0.238
-
-  5°                                  0.2351
-
-  10°                                 0.2238
-
-  15°                                 0.2195
-
-  20°                                 0.2118
-  -----------------------------------------------------------------------
+| Yaw Angle | CdA   |
+|-----------|-------|
+| 0°        | 0.238 |
+| 5°        | 0.2351|
+| 10°       | 0.2238|
+| 15°       | 0.2195|
+| 20°       | 0.2118|
 
 I then ran the race simulation, with an adjusted weight of 1kg to
 account for the water and nutrition.
