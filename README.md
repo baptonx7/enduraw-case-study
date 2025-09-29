@@ -68,7 +68,7 @@ Sport by sport analysis :
     Marbella course would certainly suit her more.
 
 **Overall the bike, especially on hilly course, is probably her main
-strength**
+strength.**
 
 -   **Run** : She gets the 12th run of the day. However when we look at
     the running splits of her direct opponent, they almost all have
@@ -78,7 +78,7 @@ strength**
     the run in training.
 
  **Overall the run is a small weakness in this race**, but it may
- results of a poor management of the effort on the bike
+ results of a poor management of the effort on the bike.
 
 -   **Transitions** : Transitions at pro level are often already perfect
      and Amelia is indeed great at transitions, getting consistent
@@ -162,7 +162,7 @@ method.
 | #4         | 02:11:12            | 268             |
 
 
-I kept simulation #4, giving me a this race overview
+I kept simulation #4, giving me this race overview.
 
 ![](media/image2.png)
 
@@ -356,7 +356,7 @@ opponents. Looking at the watch in the middle of the swim will slow her
 down.
 
 **The objective swimming pace objective is set to 1:25 min/100m for a
-total swim time of 27:16**
+total swim time of 27:16.**
 
 #### **Bike**
 
