@@ -12,24 +12,20 @@ possible performance at Worlds.
 
 She needs your help with:
 
-1.  Assessing her physiological profile, strengths, and weaknesses based
-    > on her Lahti race
+1.  Assessing her physiological profile, strengths, and weaknesses based on her Lahti race
 
 2.  Identifying mistakes that could ruin her race
 
-3.  Choosing the right equipment: wheels suited for the Marbella course,
-    > appropriate gearing
+3.  Choosing the right equipment: wheels suited for the Marbella course, appropriate gearing
 
-4.  Developing a race and/or overall pacing strategy to achieve the best
-    > possible time depending on the course and weather
+4.  Developing a race and/or overall pacing strategy to achieve the best possible time depending on the course and weather
 
 #### **Do you think you could support her on these points?**
 
 Deliverables: A race briefing in the format of your choice + a GitHub
 repo
 
-1.  **Assessing her physiological profile, strengths, and weaknesses
-    > based on her Lahti race**
+1.  **Assessing her physiological profile, strengths, and weaknesses based on her Lahti race**
 
 Based on the IM Lahti 70.3 results, the 8th female triathlete is Amelia
 Watkinson.
@@ -56,38 +52,38 @@ Amelia is in red at the center, then we have
 Sport by sport analysis :
 
 -   **Swim** : Amelia gets out of the water in 29th position and we can
-    > see that her opponents are faster except for Reischmann. If we
-    > look at her athlete history, swimming was less of a foundation
-    > early on compared to running and cycling. **Overall the swim is a
-    > weakness.**
+    see that her opponents are faster except for Reischmann. If we
+    look at her athlete history, swimming was less of a foundation
+    early on compared to running and cycling. **Overall the swim is a
+    weakness.**
 
 -   **Bike** : She makes the 7th bike split, so she's a strong rider.
-    > Looking at recent
-    > [[interviews]{.underline}](https://www.triathlete.com/culture/people/amelia-watkinson-rising-triathlon-star/?utm_source=chatgpt.com%3Futm_source%3Dchatgpt.com)
-    > (Lacke, triathlete.com, 2025), Amelia appreciate scenic courses,
-    > *"there is so much more beauty and experiences in the valleys and
-    > on the mountain tops, than forever stuck on the plains"*, so the
-    > Lahti bike course might not her full potential on the bike. The
-    > Marbella course would certainly suit her more.
+    Looking at recent
+    [[interviews]{.underline}](https://www.triathlete.com/culture/people/amelia-watkinson-rising-triathlon-star/?utm_source=chatgpt.com%3Futm_source%3Dchatgpt.com)
+    (Lacke, triathlete.com, 2025), Amelia appreciate scenic courses,
+    *"there is so much more beauty and experiences in the valleys and
+    on the mountain tops, than forever stuck on the plains"*, so the
+    Lahti bike course might not her full potential on the bike. The
+    Marbella course would certainly suit her more.
 
-> **Overall the bike, especially on hilly course, is probably her main
-> strength**
+**Overall the bike, especially on hilly course, is probably her main
+strength**
 
 -   **Run** : She gets the 12th run of the day. However when we look at
-    > the running splits of her direct opponent, they almost all have
-    > better running splits. It could be that Amelia is too strong on
-    > the bike and that will affect her running performance. Also coming
-    > from a national running background, she may have put less focus on
-    > the run in training.
+    the running splits of her direct opponent, they almost all have
+    better running splits. It could be that Amelia is too strong on
+    the bike and that will affect her running performance. Also coming
+    from a national running background, she may have put less focus on
+    the run in training.
 
-> **Overall the run is a small weakness in this race**, but it may
-> results of a poor management of the effort on the bike
+ **Overall the run is a small weakness in this race**, but it may
+ results of a poor management of the effort on the bike
 
 -   **Transitions** : Transitions at pro level are often already perfect
-    > and Amelia is indeed great at transitions, getting consistent
-    > times with her opponents. The only significant gap is for T2 where
-    > Knibb (#1st) is 35% faster. This accounts for 20 lost seconds,
-    > which in this race would have placed Amelia in 7th.
+     and Amelia is indeed great at transitions, getting consistent
+     times with her opponents. The only significant gap is for T2 where
+     Knibb (#1st) is 35% faster. This accounts for 20 lost seconds,
+     which in this race would have placed Amelia in 7th.
 
 **Overall transitions are a strength** but there is room for
 improvements still.
@@ -436,14 +432,14 @@ However, if we consider that she will aim for the podium, I would put
 the emphasis on
 
 -   Swimming faster, ideally a 26:30 swim will place her closer to the
-    > head of the race
+     head of the race
 
 -   Keeping the bike effort the same, hilly courses are her strength so
-    > she will be able to produce a fast time of around 02:30 without
-    > compromising the run.
+     she will be able to produce a fast time of around 02:30 without
+     compromising the run.
 
 -   Running faster, ideally a sub 01:18 half-marathon to be competitive
-    > enough
+     enough
 
 **Nutrition & Hydration**
 
@@ -456,10 +452,10 @@ carbohydrates (CHO) per hour of effort. Here are my recommendations :
 -   Swim : 45g gel on the start line
 
 -   Bike : 1.5L to 1.75L of water with electrolytes + 300g of CHO (2x80g
-    > drink mixes and 4x40g gels)
+     drink mixes and 4x40g gels)
 
 -   Run : 2x30g gels 2x 40g gels, 500mL of electrolytes + more
-    > electrolytes in the aid station if needed
+     electrolytes in the aid station if needed
 
 However nutrition is quite personal and without knowing her preferences,
 the nutrition and hydration plan will have to be.
