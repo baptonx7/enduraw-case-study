@@ -160,17 +160,13 @@ I then made several simulations, adjusting the race goal watts to make
 the total time match Amelia's time of 02:11:13 via the dichotomous
 method
 
-  -----------------------------------------------------------------------
-  Simulation              Simulated bike time     Race goal watts
-  ----------------------- ----------------------- -----------------------
-  #1                      02:10:51                270
+| Simulation | Simulated Bike Time | Race Goal Watts |
+|------------|---------------------|-----------------|
+| #1         | 02:10:51            | 270             |
+| #2         | 02:11:45            | 265             |
+| #3         | 02:11:23            | 267             |
+| #4         | 02:11:12            | 268             |
 
-  #2                      02:11:45                265
-
-  #3                      02:11:23                267
-
-  #4                      02:11:12                268
-  -----------------------------------------------------------------------
 
 I kept simulation #4, giving me a this race overview
 
@@ -213,19 +209,15 @@ estimate her Threshold Pace to 3:22 min/km**.
 
 **Here is her physiological profile summed up :**
 
-  -----------------------------------------------------------------------
-  Swim TP                             1:16 min/100m
-  ----------------------------------- -----------------------------------
-  Bike FTP                            307 W
+| Metric              | Value          |
+|---------------------|----------------|
+| Swim TP             | 1:16 min/100m  |
+| Bike FTP            | 307 W          |
+| Run TP              | 3:22 min/km    |
+| Swim IM 70.3 pace   | 1:25 min/100m  |
+| Bike IM 70.3 power  | 267 W          |
+| Run IM 70.3 pace    | 3:47 min/km    |
 
-  Run TP                              3:22 min/km
-
-  Swim IM 70.3 pace                   1:25 min/100m
-
-  Bike IM 70.3 power                  267 W
-
-  Run IM 70.3 pace                    3:47 min/km
-  -----------------------------------------------------------------------
 
 From these values, we could derive the training zones for her training,
 but as the exercise is to prepare only the next race, I will focus only
@@ -360,24 +352,8 @@ pace from Lahti. She has likely improved in the water since 2023, but
 since the swimming is in the sea, waves and swell will make it a bit
 harder.
 
-Here are the splits for each buoy of the course.
+[Here](https://docs.google.com/spreadsheets/d/1Zdydq8krNZ-YE1xYeLJSHEeJKExHrRgXpSDr3W5NNX8/edit?gid=1501865030#gid=1501865030) are the splits for each buoy of the course.
 
-  -------------------------------------------------------------------------
-  Race pace       Buoy         Distance (m) Time (s)     Cumulated time
-  (s/100m)                                               (mm:ss)
-  --------------- ------------ ------------ ------------ ------------------
-  85              1            300          255          4:25
-
-                  2            345          293          9:54
-
-                  3            220          187          12:72
-
-                  4            525          446          19:12
-
-                  5            340          289          24:14
-
-                  Finish       200          170          27:16
-  -------------------------------------------------------------------------
 
 However, Amelia is racing for the best results possible, the strategy
 should be to not pay too much attention to the splits, and making sure
@@ -397,7 +373,7 @@ used for the gearing and wheels recommendations.
 a 02:31:54 bike split.**
 
 **The simulation give the following provisional power and speed
-[[plan]{.underline}](https://docs.google.com/spreadsheets/d/1Zdydq8krNZ-YE1xYeLJSHEeJKExHrRgXpSDr3W5NNX8/edit?gid=761149379#gid=761149379)
+[plan](https://docs.google.com/spreadsheets/d/1Zdydq8krNZ-YE1xYeLJSHEeJKExHrRgXpSDr3W5NNX8/edit?gid=761149379#gid=761149379)
 for homogeneous segments of the bike course.**
 
 It also provides a climb cheatsheet to help dealing with the hills.
