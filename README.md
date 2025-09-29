@@ -152,7 +152,7 @@ Normalized Power Model for the simulations.
 
 I then made several simulations, adjusting the race goal watts to make
 the total time match Amelia's time of 02:11:13 via the dichotomous
-method
+method.
 
 | Simulation | Simulated Bike Time | Race Goal Watts |
 |------------|---------------------|-----------------|
@@ -190,7 +190,7 @@ I applied a simple GAP model to the pace between each split. The details
 of the algorithm I created are in the python notebook GAP-model.ipynb.
 
 For each split, I now have an adjusted pace taking the gradient into
-account. Averaging the GAP, I get a value of 3:47 min/km
+account. Averaging the GAP, I get a value of 3:47 min/km.
 
 The GAP value from Matthews on strava is 3:33 min/km for a 1:16:22
 half-marathon which is 6.0% faster than Amelia. If we compare the two
@@ -387,7 +387,7 @@ sessions. Without this information it is not a good idea to make
 assumptions on what pace or power Amelia should target.
 
 However, if we consider that she will aim for the podium, I would put
-the emphasis on
+the emphasis on : 
 
 -   Swimming faster, ideally a 26:30 swim will place her closer to the
      head of the race
@@ -416,16 +416,16 @@ carbohydrates (CHO) per hour of effort. Here are my recommendations :
      electrolytes in the aid station if needed
 
 However nutrition is quite personal and without knowing her preferences,
-the nutrition and hydration plan will have to be.
+the nutrition and hydration plan will have to be adapted.
 
 ### **Race briefing for Amelia**
 
 For the first 300m of the swim, focus on getting your swim right,
-understand the level of your direct opponent, and try to find good feet
+estimate the level of your direct opponents, and try to find good feet
 to follow. You may check your pace at the first buoy just to make sure.
 Then once you find your rhythm, don't overthink it and keep the effort
 really smooth. Start thinking about the transition in the 200m last
-meters.
+meters so you'll know what to do right away.
 
 In T1, do the usual stuff, stay calm and focus, you know what to do.
 
