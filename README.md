@@ -109,31 +109,26 @@ For this calculation, I used the computational engine from
 [bestbikesplit.com](http://bestbikesplit.com). I modeled
 Amelia like so :
 
-| Athlete height  | 170 cm    |
-| Athlete weight  | 58 kg     |
-| Experience      | Pro/Elite |
+| Athlete Parameter| Value     |
+|------------------|-----------|
+| Athlete height   | 170 cm    |
+| Athlete weight   | 58 kg     |
+| Experience       | Pro/Elite |
 
 *Based on PTO athlete information.*
 
-Bike : Trek Concept SLR
-
-Bike weight (estimated) :8.70 kg
-
-Front Wheel : 60mm
-
-Back Wheel : Disc
-
-Tires : GP5000
-
-Tire Type : Clincher (wide 25-28)
-
-Tube Type : Latex
-
-Riding style : Aeorbars (Elite/pro TT)
-
-Climbing position : Hoods/Bullhorns
-
-Helmet Type : Aero
+| Bike parameter     | Value                  |
+|--------------------|------------------------|
+| Bike               | Trek Concept SLR       |
+| Bike weight        | 8.70 kg (estimated)    |
+| Front Wheel        | 60mm                   |
+| Back Wheel         | Disc                   |
+| Tires              | GP5000                 |
+| Tire Type          | Clincher (wide 25–28)  |
+| Tube Type          | Latex                  |
+| Riding style       | Aerobars (Elite/pro TT)|
+| Climbing position  | Hoods/Bullhorns        |
+| Helmet Type        | Aero                   |
 
 *Based on Amelia's Instragram.*
 
