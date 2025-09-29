@@ -1,6 +1,6 @@
 # **Case Performance Scientist**
 
-#### **Due date : 29/09 8pm**
+**Due date : 29/09 8pm**
 
 ## **Ironman 70.3 Worlds Championships**
 
@@ -25,12 +25,12 @@ She needs your help with:
 Deliverables: A race briefing in the format of your choice + a GitHub
 repo
 
-1.  **Assessing her physiological profile, strengths, and weaknesses based on her Lahti race**
+## 1.  **Assessing her physiological profile, strengths, and weaknesses based on her Lahti race**
 
 Based on the IM Lahti 70.3 results, the 8th female triathlete is Amelia
 Watkinson.
 
-**Strength and weaknesses**
+### **Strength and weaknesses**
 
 Taking data from
 [endurance-data.com](http://endurance-data.com), we can
@@ -88,7 +88,7 @@ strength**
 **Overall transitions are a strength** but there is room for
 improvements still.
 
-**Physiological profile**
+### **Physiological profile**
 
 Taking the course in Lahti we can infer the following physiological for
 Amelia
@@ -227,7 +227,7 @@ PS : I didn't find any heartrate value to match the corresponding
 intensity so I would not consider it for the Marbella IM 70.3
 Championships.
 
-2.  **Mistakes that could ruin her race**
+## 2.  **Mistakes that could ruin her race**
 
 Without knowing how she usually races and following her training day to
 day, it is ambitious to give realistic assumptions on her potential
@@ -262,9 +262,9 @@ Having the wrong gearing would result in producing more lactate on the
 climbs or not being able to put power in the descents. This point will
 be addressed later so I hope she won't make any mistake about it.
 
-3.  **Choosing the right equipment**
+## 3.  **Choosing the right equipment**
 
-**In the water**
+### **In the water**
 
 According to the official ironman website, the average water temperature
 is 16°C. The swimsuit might not be mandatory, but highly recommended.
@@ -278,7 +278,7 @@ affected by the glaring.
 **Overall I suggest wearing a swimsuit and clear goggles to provide a
 good vision before sunrise.**
 
-**On the bike**
+### **On the bike**
 
 Running the bestbikesplit simulation on the Marbella course gives the
 following results. I kept the same parameters as the Lahti course, and
@@ -336,16 +336,16 @@ will help holding a good aero position.
 
 **Overall, I suggest using 60mm wheels at the front and back.**
 
-**On the run**
+### **On the run**
 
 The running conditions will be pretty classic, so her usual equipment
 will be fine. Sunglasses are definitely recommended if the sun is out.
 
-4.  **Race pace strategy for Marbella**
+## 4.  **Race pace strategy for Marbella**
 
-**Pacing strategy**
+### **Pacing strategy**
 
-**Swim**
+#### **Swim**
 
 For the race pace at Marbella, Amelia should be able to maintain her
 pace from Lahti. She has likely improved in the water since 2023, but
@@ -364,7 +364,7 @@ down.
 **The objective swimming pace objective is set to 1:25 min/100m for a
 total swim time of 27:16**
 
-**Bike**
+#### **Bike**
 
 The bike pacing strategy will be based on the bestbikesplit simulation
 used for the gearing and wheels recommendations.
@@ -380,7 +380,7 @@ It also provides a climb cheatsheet to help dealing with the hills.
 
 ![](media/image8.png)
 
-**Run**
+#### **Run**
 
 Based on the gpx file and the IM 70.3 race pace of Amelia we can set the
 objective of running the same GAP as Lahti. **This gives the
@@ -405,7 +405,7 @@ the emphasis on
 -   Running faster, ideally a sub 01:18 half-marathon to be competitive
      enough
 
-**Nutrition & Hydration**
+### **Nutrition & Hydration**
 
 To achieve a podium in IM 70.3 Championships it is mandatory to have a
 great nutrition and hydration strategy.
@@ -424,7 +424,7 @@ carbohydrates (CHO) per hour of effort. Here are my recommendations :
 However nutrition is quite personal and without knowing her preferences,
 the nutrition and hydration plan will have to be.
 
-**Race briefing for Amelia**
+### **Race briefing for Amelia**
 
 For the first 300m of the swim, focus on getting your swim right,
 understand the level of your direct opponent, and try to find good feet
